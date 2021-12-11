@@ -1,0 +1,23 @@
+.navbar{
+	display: flex;
+	justify-content: space-between;
+	background-color: #1A2D3D;
+	border-radius: 6px;
+	padding: 10px;	
+	
+}
+
+.navbar a {
+	font-family: quanelas;
+	font-weight: 400;
+	text-decoration: none;
+	color: whitesmoke;
+	font-size: 24px;
+}
+
+.navbar a:hover {
+	font-weight: 450;
+	font-size: 26px;
+	color: darkgrey;
+}
+

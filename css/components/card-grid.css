@@ -1,0 +1,9 @@
+.card-grid {
+	display: flex;
+
+}
+
+.card-grid p{
+	margin-top: 40px;
+}
+

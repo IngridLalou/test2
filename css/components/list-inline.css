@@ -1,0 +1,28 @@
+.list-inline {
+	list-style: none;
+ }
+
+.list-inline li{
+	display: inline;
+	font-size: 60px;
+	white-space: pre-wrap;
+}
+
+#taille{
+	font-size: 38px;
+}
+
+#color-red{
+	color: #b71b53;
+	font-size: 50px;
+}
+
+.list-inline a{
+	display: inline;
+	font-size: 60px;
+	white-space: pre-wrap;
+}
+
+#padding2{
+	padding-bottom: 0px;
+}

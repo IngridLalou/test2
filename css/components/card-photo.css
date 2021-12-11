@@ -1,0 +1,6 @@
+
+.card-photo {
+	display: flex;
+	flex-wrap: wrap;
+}
+

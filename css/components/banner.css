@@ -1,0 +1,47 @@
+.banner{
+	background-image: linear-gradient(-225deg,rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.1)90%), url(../../images/auditorium.png);
+	background-position: center;
+	background-size: 1350px;
+	color:  white;
+	padding: 80px;
+	border-radius: 8px;
+}
+
+.banner h1{
+	font-size: 80px;
+	font-weight: 10;
+	font-family: qanelas;
+	text-align: center;
+	padding-top: 3px;
+}
+
+.banner p{
+	font-size: 20px;
+	font-family: qanelas;
+	text-align: center;
+	color: white;
+
+}
+
+#fond {
+	background-image: linear-gradient(-225deg,rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.1)90%), url(../../images/public.jpeg);
+	background-size: 1500px;
+} 
+
+#fond2 {
+	background-image: linear-gradient(-225deg,rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.1)90%), url(../../images/MCEbanner.png);
+	background-size: 1400px;
+} 
+
+#fond3{
+	background-image: linear-gradient(-225deg,rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.1)90%), url(../../images/journalisme2.jpeg);
+	background-size: 1400px;
+}
+
+#taille4{
+	font-size: 90px;
+}
+
+#taille5{
+	font-size: 50px;
+}
